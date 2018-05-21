@@ -1,2 +1,5 @@
 # hello-world
-First repository
+
+Hi all!
+
+My name is Yulia. It's fun and hard learning how to code.
